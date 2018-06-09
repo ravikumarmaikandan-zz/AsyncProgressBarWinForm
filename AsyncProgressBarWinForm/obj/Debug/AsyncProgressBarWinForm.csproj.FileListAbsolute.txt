@@ -1,0 +1,10 @@
+c:\users\ravim\source\repos\AsyncProgressBarWinForm\AsyncProgressBarWinForm\bin\Debug\AsyncProgressBarWinForm.exe.config
+c:\users\ravim\source\repos\AsyncProgressBarWinForm\AsyncProgressBarWinForm\bin\Debug\AsyncProgressBarWinForm.exe
+c:\users\ravim\source\repos\AsyncProgressBarWinForm\AsyncProgressBarWinForm\bin\Debug\AsyncProgressBarWinForm.pdb
+c:\users\ravim\source\repos\AsyncProgressBarWinForm\AsyncProgressBarWinForm\obj\Debug\AsyncProgressBarWinForm.csprojResolveAssemblyReference.cache
+c:\users\ravim\source\repos\AsyncProgressBarWinForm\AsyncProgressBarWinForm\obj\Debug\AsyncProgressBarWinForm.Form1.resources
+c:\users\ravim\source\repos\AsyncProgressBarWinForm\AsyncProgressBarWinForm\obj\Debug\AsyncProgressBarWinForm.Properties.Resources.resources
+c:\users\ravim\source\repos\AsyncProgressBarWinForm\AsyncProgressBarWinForm\obj\Debug\AsyncProgressBarWinForm.csproj.GenerateResource.Cache
+c:\users\ravim\source\repos\AsyncProgressBarWinForm\AsyncProgressBarWinForm\obj\Debug\AsyncProgressBarWinForm.csproj.CoreCompileInputs.cache
+c:\users\ravim\source\repos\AsyncProgressBarWinForm\AsyncProgressBarWinForm\obj\Debug\AsyncProgressBarWinForm.exe
+c:\users\ravim\source\repos\AsyncProgressBarWinForm\AsyncProgressBarWinForm\obj\Debug\AsyncProgressBarWinForm.pdb
